@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '25680'
     url: http://www.gutenberg.org/2009/agents/25680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31686#Collector-s-Item
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
